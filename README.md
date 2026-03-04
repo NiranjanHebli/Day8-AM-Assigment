@@ -60,5 +60,9 @@ python3 income_tax_calculator.py
 ```
 
 ## Output Screenshots:-
+<img width="972" height="396" alt="Screenshot 2026-03-04 at 12 47 57 PM" src="https://github.com/user-attachments/assets/e07f0f36-5399-4a8d-99ae-fb51fd6dca32" />
+<img width="965" height="517" alt="Screenshot 2026-03-04 at 12 48 14 PM" src="https://github.com/user-attachments/assets/af070e04-b346-4110-80f6-7d160ee0841d" />
+<img width="967" height="507" alt="Screenshot 2026-03-04 at 12 49 47 PM" src="https://github.com/user-attachments/assets/b2bb364b-e121-47d8-8d54-f73476ef58d2" />
+
 
 
