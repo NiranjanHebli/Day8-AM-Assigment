@@ -1,5 +1,7 @@
 # Day8 AM Assignment 
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 # Part A:- Student Admission System
 
 A simple Python program to manage student admissions for demonstration and practice.
@@ -35,5 +37,28 @@ Follow the on-screen prompts to add or view students.
 
 <img width="885" height="769" alt="Screenshot 2026-03-04 at 12 12 48 PM" src="https://github.com/user-attachments/assets/9ccdbe8d-a069-4015-a717-162fdc9e7102" />
 
+
+## Part B:- Indian Income Tax Calculator
+
+A simple Python program to calculate Indian income tax based on the new tax regime (FY 2024-25).
+
+## Requirements
+
+- Python 3.8+ (recommended)
+
+## Files
+
+- `income_tax_calculator.py` — main program containing the tax calculator logic
+
+## Usage
+
+Run the program from the project root directory:
+
+
+```bash
+python3 income_tax_calculator.py
+```
+
+## Output Screenshots:-
 
 
