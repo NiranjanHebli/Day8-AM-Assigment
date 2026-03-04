@@ -1,4 +1,4 @@
-# Day8 AM Assignment 
+# Day 8 AM Assignment 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -90,6 +90,9 @@ python3 smart_transaction_validator.py
 ## Output Screenshots:-
 
 
+<img width="1942" height="1326" alt="image" src="https://github.com/user-attachments/assets/d5def70b-4ebb-4910-a27c-1e125f4ae0bf" />
+
+<img width="972" height="698" alt="Screenshot 2026-03-04 at 3 16 12 PM" src="https://github.com/user-attachments/assets/6e20631e-f313-49d8-83dc-e2ef8442d307" />
 
 
 
