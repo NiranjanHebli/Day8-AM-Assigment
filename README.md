@@ -65,4 +65,31 @@ python3 income_tax_calculator.py
 <img width="967" height="507" alt="Screenshot 2026-03-04 at 12 49 47 PM" src="https://github.com/user-attachments/assets/b2bb364b-e121-47d8-8d54-f73476ef58d2" />
 
 
+## Part E:- Smart Transaction Validator
+
+A simple Python program to evaluate transactions against predefined rules to detect potential fraud.
+
+## Requirements
+
+- Python 3.8+ (recommended)
+
+## Files
+
+- `smart_transaction_validator.py` — main program containing the transaction validator logic
+
+## Usage
+
+Run the program from the project root directory:
+
+
+```bash
+python3 smart_transaction_validator.py
+```
+
+
+## Output Screenshots:-
+
+
+
+
 
